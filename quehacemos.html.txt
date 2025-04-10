@@ -1,0 +1,38 @@
+**quehacemos.html**
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Qué Hacemos - Eco Flow</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="https://via.placeholder.com/50" alt="Eco Flow Logo">
+      <h1>Eco Flow</h1>
+    </div>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="historia.html">Nuestra Historia</a>
+      <a href="solicitar.html">Solicitar</a>
+      <a href="recicladores.html">Mapa</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>¿Qué Hacemos?</h2>
+    <p>Unimos tecnología y sostenibilidad para dar una nueva vida a los residuos. Nuestra plataforma conecta en tiempo real usuarios y recolectores.</p>
+    <img src="https://images.unsplash.com/photo-1564936281291-294551497d9e" alt="Tecnología Sustentável" />
+  </section>
+
+  <footer>
+    <p>© 2025 Eco Flow. Projeto piloto em desenvolvimento em La Plata, Argentina 🇦🇷</p>
+    <p>Email: contato@ecoflow.com | WhatsApp: +54 9 11 1234-5678</p>
+    <p>Dirección: Calle 12, La Plata, Buenos Aires</p>
+  </footer>
+</body>
+</html>
+```

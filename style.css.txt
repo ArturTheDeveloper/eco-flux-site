@@ -1,0 +1,1 @@
+**style.css** (CSS separado, será igual ao que já usava no `<style>` antes — posso te gerar também!)
